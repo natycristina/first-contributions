@@ -10,6 +10,7 @@
 - [Akhilesh Pratap Shahi](https://github.com/shahiakhilesh1304) Note: This is my first contribution looking forward to contribute as a Data Scientist/Python Developer/Data Engineer/ AI Engineer.
 - [Misanthropic](https://github.com/misanthropic23)
 - [Banyar](https://github.com/minbanyartalahtaw)
+- [Ze Santos](https://github.com/ze13sk) altamente
 - [Md Faizan Ashrafi](https://github.com/mdfaizanashrafi) Hey Guys! Not my first contribution
 - [yash](https://github.com/YASHWANTHBH1)- hi
 - [Aakash](https://github.com/aakash1v)- This is my first contribution..
@@ -20,6 +21,7 @@
 - [Arman khan](https://github.com/Rage400)
 - [Somisrbija](https://github.com/SomiSrbija)
 - [Estilo Joseph] (https://github.com/sephhsephh) nice
+Nataly Cristina (https://github.com/natycristina)
 - [Andrea-Sgarbi](https://github.com/Andrea-Sgarbi) Hello everyone, this is my first contribution! :)
 - [Maxime Benoit](https://github.com/Max13500)
 - [Feng-chengyi](https://github.com/Feng-chengyi)
@@ -84,6 +86,7 @@
 - [junocodex] (https://github.com/junocodex)
 - [0v3nb1rd](https://github.com/0v3nb1rd)
 - [Dayyan Hamid](https://github.com/dayy346)
+- [JoseQueiroz](https://github.com/jmateusq)
 - [Loic CHECK](https://github.com/NDZIE444)
 - [Muhammed Serim](https://github.com/mahitox38)
 - [Otavio Gomes](https://github.com/otgomes) 👈(ﾟヮﾟ 👈)
